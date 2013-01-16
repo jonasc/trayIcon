@@ -1,3 +1,0 @@
-#!/bin/bash
-
-python2 %PREFIXDIR%/lib/trayIcon/mail/imapTray.py $* | %PREFIXDIR%/bin/trayIcon
